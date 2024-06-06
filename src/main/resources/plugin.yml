@@ -1,0 +1,8 @@
+name: CMonit
+version: 1.0
+main: ng.baconi.cmonit.CMonit
+description: A simple plugin to monitor stuff
+api-version: 1.20
+author: Baconing
+softdepend:
+    - Plan
